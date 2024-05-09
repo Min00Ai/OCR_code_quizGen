@@ -41,7 +41,7 @@ class Quizgen:
     def getFolderName(self,indexFile):
         file_path = ''
         if  indexFile == "loop":
-            file_path = "ui/assets/quizGen/loop/"
+            file_path = "./assets/quizGen/loop/"
         #else if indexFile == "if":
         #    file_path = "./quizGen/if"
         
